@@ -7,6 +7,10 @@
     text-align: center;
 }
 
+.heart{
+    color: white;
+}
+
 .main p{
     font-family: Roboto Mono, sans-serif;
     font-style: normal;
