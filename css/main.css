@@ -27,8 +27,8 @@ html, body{
     margin-top: 80px;
 }
 
-.sidebar .mynav ul li a{
-    text-decoration: none;
+.sidebar .mynav ul li{
+    list-style-type: none;
 }
 
 i.material-icons{
