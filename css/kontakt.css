@@ -1,9 +1,4 @@
 .main{
-    background-image: url('/img/Viereck.svg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100vw 50em;
-
     height: inherit;
     display: flex;
     flex-direction: column;
