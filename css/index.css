@@ -1,0 +1,25 @@
+.main{
+    background-image: url('/img/Viereck.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw 50em;
+
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote{
+    text-align: center;
+    margin: 0px 10px 0px 30px;
+}
+
+p{
+    font-family: Roboto Mono, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 35px;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}

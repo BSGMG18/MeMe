@@ -1,0 +1,54 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.sidebar{
+    height: inherit;
+    width: 61px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #BBBBBB;
+    text-align: center;
+    overflow: auto;
+}
+
+.sidebar img{
+    margin-top: 22px;
+}
+
+.sidebar .mynav ul{
+    margin: 0;
+    padding: 0;
+    margin-top: 80px;
+}
+
+i.material-icons{
+    margin-top: 22px;
+    font-size: 35px;
+    color: #283534;
+}
+
+i.active{
+    color: #B213A3;
+}
+
+.main{
+    height: inherit;
+    background-color: #283534;
+    color: white;
+    padding-top: 1px;
+    margin-left: 61px;
+    overflow: auto;
+}
+
+@media only screen and (max-width: 470px){
+    .hideLess470{
+      display: none;
+    }
+  }
+  

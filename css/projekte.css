@@ -1,0 +1,27 @@
+.main{
+    background-image: url('/img/Viereck.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw 50em;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
+
+.flex-item{
+    margin: 20px 15px 20px 15px;
+}
+
+.flex-item a{
+    height: 0px;
+}
+
+.flex-item img{
+    width: 80px;
+    height: 140px;
+    box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.5);
+}
