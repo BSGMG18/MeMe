@@ -27,6 +27,10 @@ html, body{
     margin-top: 80px;
 }
 
+.sidebar .mynav ul li a{
+    text-decoration: none;
+}
+
 i.material-icons{
     margin-top: 22px;
     font-size: 35px;
