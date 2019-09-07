@@ -2,11 +2,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-
-  background-image: url('/img/Viereck.svg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100vw 50em;
 }
 
 h3{

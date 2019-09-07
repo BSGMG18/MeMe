@@ -44,6 +44,11 @@ i.active{
     padding-top: 1px;
     margin-left: 61px;
     overflow: auto;
+
+    background-image: url('img/Viereck.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw 50em;
 }
 
 @media only screen and (max-width: 470px){
